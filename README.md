@@ -1,5 +1,12 @@
 # 💫 About Me:
-Soy Andrés Berrio, un estudiante de Ingeniería de Sistemas de 19 años que actualmente vive en Cartagena. <br>Desde que comencé a estudiar, descubrí una gran pasión por todo lo relacionado con el diseño web y móvil.<br>Me encanta explorar nuevas tendencias de diseño y aplicar mis habilidades en programación para crear interfaces atractivas, bien organizadas y fáciles de usar.<br><br>A lo largo de mi formación, me he especializado en el desarrollo de proyectos enfocados en la experiencia del usuario, buscando siempre la mejor estética y funcionalidad en cada diseño. <br>Considero que mi fuerte en programación está precisamente en este ámbito, ya que disfruto mucho trabajando con herramientas que me permiten dar vida a interfaces que no solo sean visualmente impactantes, sino también intuitivas para los usuarios.<br><br>Siempre estoy en constante aprendizaje, buscando mejorar mis habilidades y manteniéndome actualizado con las últimas tecnologías y enfoques en el desarrollo web y móvil. Mi objetivo es seguir creciendo profesionalmente en este campo y aportar soluciones innovadoras en el área del diseño digital.
+I am Andrés Berrio, a 19-year-old Systems Engineering student currently living in Cartagena.
+Since I started studying, I discovered a great passion for everything related to web and mobile design.
+I love exploring new design trends and applying my programming skills to create attractive, well-organized and easy-to-use interfaces.
+
+Throughout my training, I have specialized in the development of projects focused on the user experience, always looking for the best aesthetics and functionality in each design.
+I consider that my strength in programming is precisely in this area, since I really enjoy working with tools that allow me to bring to life interfaces that are not only visually striking, but also intuitive for users.
+
+I am always constantly learning, seeking to improve my skills and staying up to date with the latest technologies and approaches in web and mobile development. My goal is to continue growing professionally in this field and provide innovative solutions in the area of ​​digital design.
 
 
 ## 🌐 Socials:
