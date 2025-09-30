@@ -8,31 +8,30 @@
 
 <!-- Header Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀɴᴅʀᴇs!  
-*Systems Engineering Student | Web & Mobile Developer*
+*Software Developer | Systems Engineering Student*
 <br /> 
 
 <!-- Intro -->               
 <p align="left">
-I am <strong>Andrés Berrio</strong>, a 19-year-old Systems Engineering student currently living in Cartagena.  
-Since I started studying, I discovered a great passion for web and mobile design.  
+I’m <strong>Andrés Berrio</strong>, a 20-year-old Systems Engineering student and Software Developer from Cartagena, Colombia.  
+I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything related to <b>design, social media, and graphic editing</b>.  
 
-✨ I love exploring new design trends and applying my programming skills to create attractive, well-organized, and easy-to-use interfaces.  
-💡 My focus is always on user experience, balancing aesthetics and functionality.  
-📚 I am constantly learning and staying updated with the latest technologies.  
-🎯 My goal is to grow professionally in the digital design & development field while providing innovative solutions.  
+✨ Creativity and functionality guide my projects.  
+🎨 I love crafting modern, user-friendly, and visually appealing interfaces.  
+⚡ Exploring new tools and design trends is part of my daily learning.  
+🚀 My goal is to become a reference in software and digital solutions, blending <i>tech and design</i>.  
 </p>
 
-- ✨ Student of life :)
-- 🌱 Always learning new things
-- 💻 Passionate about **Web & Mobile Development**
-- 🎨 Lover of clean UI/UX design
-- ❤ Open Source enthusiast
+- 💻 Focused on Web & Desktop Development  
+- 🌱 Constantly improving and learning new technologies  
+- 🎨 Passionate about UI/UX & Graphic Design  
+- ⚡ Always looking for innovative solutions  
 
 ---
 
 <!-- Profile Count Badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Andres06b&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Andres06b" style="padding-right:20px;" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Andres06b&label=Profile%20views&color=00c8ff&style=for-the-badge&logo=star" alt="Andres06b" />
 </p>
 
 ---
@@ -49,9 +48,7 @@ Since I started studying, I discovered a great passion for web and mobile design
 <!-- Trophies Section -->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Andres06b&row=2&column=6&margin-w=20&margin-h=20&theme=radical" alt="GitHub Trophies">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Andres06b&row=2&column=6&margin-w=20&margin-h=20&theme=radical" alt="GitHub Trophies">
 </p>
 <br />
 
@@ -83,7 +80,7 @@ Since I started studying, I discovered a great passion for web and mobile design
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Andres06b">
+        <a href="https://github.com/Andres06b/BlocPersonal">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Andres06b&repo=BlocPersonal&theme=nightowl&show_owner=true" alt="Latest Project" />
         </a>
       </p>
@@ -126,25 +123,19 @@ Since I started studying, I discovered a great passion for web and mobile design
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100005023187254" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://www.instagram.com/af06_berrio" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.tiktok.com/@andres_06bh" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/AndrsFelipeB4" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" style="margin-bottom: 5px;" />
-</a>
 </div>
+
+---
 
 <!-- Footer --> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+✨;Keep+coding+and+creating+🚀;Let's+build+something+amazing!+🔥" alt="Typing SVG Footer" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:8A2BE2&height=100&section=footer&animation=twinkling&fontAlignY=40"/>
+</p>
