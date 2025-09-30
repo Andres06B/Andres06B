@@ -1,7 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Andres06B/Img-repo/blob/main/eae62235-f09f-4aa4-8c02-20f5b331dcb4.png" width="58%" alt="Andres06b Banner"/>
+  <img src="https://github.com/Andres06B/Img-repo/blob/main/eae62235-f09f-4aa4-8c02-20f5b331dcb4.png" 
+       width="65%" 
+       style="max-height:300px;" 
+       alt="Andres06b Banner"/>
 </p>
+
 
 <!-- Night Owl image -->
 <div>
@@ -133,11 +137,12 @@ I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything rel
 
 ---
 
-<!-- Footer --> 
+<!-- Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=FF8800&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+create+something+amazing!+🚀;Keep+learning+and+building+🔥" alt="Typing SVG Footer" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Andres06B&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats Footer" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8800,100:8A2BE2&height=120&section=footer&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
