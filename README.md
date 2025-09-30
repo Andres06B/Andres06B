@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Andres06b Banner Image](https://github.com/Andres06b/Andres06b/blob/main/banner.png)
+![Andres06b Banner Image](https://github.com/Andres06B/Img-repo/blob/main/eae62235-f09f-4aa4-8c02-20f5b331dcb4.png)
 
 <!-- Night Owl image -->
 <div>
