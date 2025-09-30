@@ -22,16 +22,32 @@ I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything rel
 - 💻 Focused on Web & Desktop Development  
 - 🌱 Constantly improving and learning new technologies  
 - 🎨 Passionate about UI/UX & Graphic Design  
-- ⚡ Always looking for innovative solutions  
+- ⚡ Always looking for innovative solutions
+-   <img src="https://komarev.com/ghpvc/?username=Andres06b&label=Profile%20views&color=ff8800&style=for-the-badge&logo=star" alt="Andres06b" />
 
----
+class WhoAmI:
+    user = "Felipe"
+    current_edu = "Autodidacta en Desarrollo Web"
+    currently_learning = "Desarrollador Frontend"
+    fun_fact = "Creando lo mejor de mi en mis proyectos"
+    hobbies = [
+        "Frontend Development",
+        "Crear proyectos propios",
+        "Diseño en Tailwind CSS",
+        "Dar lo mejor en cada proyecto que realizo"
+    ]
+    
+    def getCity():
+        return "Colombia"
+    
+    def Ambitions():
+        return [
+            "Convertirme en Fullstack Developer",
+            "Lanzar mis propias plataformas digitales",
+            "Ayudar a pequeños negocios con soluciones web",
+            "Posicionarme como creador de contenido en tech"
+        ]
 
-<!-- Profile Count Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andres06b&label=Profile%20views&color=ff8800&style=for-the-badge&logo=star" alt="Andres06b" />
-</p>
-
----
 
 <!-- Languages and Tools Section -->       
 <h2 align="center">🚀 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🚀</h2> 
