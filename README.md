@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Andres06B/Img-repo/blob/main/eae62235-f09f-4aa4-8c02-20f5b331dcb4.png" width="80%" alt="Andres06b Banner"/>
+  <img src="https://github.com/Andres06B/Img-repo/blob/main/eae62235-f09f-4aa4-8c02-20f5b331dcb4.png" width="58%" alt="Andres06b Banner"/>
 </p>
 
 <!-- Night Owl image -->
