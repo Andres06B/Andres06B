@@ -1,14 +1,11 @@
-<!-- Night Owl image -->
 <div>
   <img align="right" width="38%" src="https://github.com/Andres06B/Img-repo/blob/main/9522f5da-0496-407c-afc4-602eed5bec1b.png?raw=true">
 </div>
 
-<!-- Header Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀɴᴅʀᴇs!  
 *Software Developer | Systems Engineering Student*
 <br /> 
 
-<!-- Intro -->               
 <p align="left">
 I’m <strong>Andrés Berrio</strong>, a 20-year-old Systems Engineering student and Software Developer from Cartagena, Colombia.  
 I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything related to <b>design, social media, and graphic editing</b>.  
@@ -25,31 +22,30 @@ I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything rel
 - ⚡ Always looking for innovative solutions
 -   <img src="https://komarev.com/ghpvc/?username=Andres06b&label=Profile%20views&color=ff8800&style=for-the-badge&logo=star" alt="Andres06b" />
 
-class WhoAmI:
-    user = "Felipe"
-    current_edu = "Autodidacta en Desarrollo Web"
-    currently_learning = "Desarrollador Frontend"
-    fun_fact = "Creando lo mejor de mi en mis proyectos"
-    hobbies = [
-        "Frontend Development",
-        "Crear proyectos propios",
-        "Diseño en Tailwind CSS",
-        "Dar lo mejor en cada proyecto que realizo"
-    ]
-    
-    def getCity():
-        return "Colombia"
-    
-    def Ambitions():
-        return [
-            "Convertirme en Fullstack Developer",
-            "Lanzar mis propias plataformas digitales",
-            "Ayudar a pequeños negocios con soluciones web",
-            "Posicionarme como creador de contenido en tech"
-        ]
+## 👋 Who am I?
 
+| Atributo | Detalle |
+| :--- | :--- |
+| **Usuario** | Andrés Berrio (Corregido de "Felipe") |
+| **Educación Actual** | Sistemas Engineering Student / Autodidacta en Desarrollo Web |
+| **Aprendiendo Actualmente** | Desarrollador Frontend |
+| **Ciudad** | 🌎 Colombia |
+| **Fun Fact** | Prefiero mantener anonimato en mis proyectos |
 
-<!-- Languages and Tools Section -->       
+### Hobbies
+- 🎨 Frontend Development
+- 💡 Crear proyectos propios
+- 🎴 Diseño en Tailwind CSS
+- 🔥 Dar lo mejor en cada proyecto que realizo
+
+### Ambiciones
+- 💻 Convertirme en Fullstack Developer
+- 🚀 Lanzar mis propias plataformas digitales
+- 🤝 Ayudar a pequeños negocios con soluciones web
+- 📢 Posicionarme como creador de contenido en tech
+
+---
+
 <h2 align="center">🚀 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🚀</h2> 
 <p align="center">
 <img width="600px"  src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,nodejs,electron,mongodb,mysql,java,python,git,github,postman,figma,canva,photoshop,powerbi,vscode,linux&perline=10"  />
@@ -58,7 +54,6 @@ class WhoAmI:
 
 ---
 
-<!-- Trophies Section -->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Andres06b&row=2&column=6&margin-w=20&margin-h=20&theme=radical" alt="GitHub Trophies">
@@ -67,7 +62,6 @@ class WhoAmI:
 
 ---
 
-<!-- Github stats Table --> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -112,7 +106,6 @@ class WhoAmI:
 
 ---
 
-<!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andres06b&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
@@ -120,7 +113,6 @@ class WhoAmI:
 
 ---
 
-<!-- Dynamic Quote -->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
@@ -128,7 +120,6 @@ class WhoAmI:
 
 ---
 
-<!-- Contact Section --> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
   
@@ -144,7 +135,6 @@ class WhoAmI:
 
 ---
 
-<!-- Footer -->
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Andres06B&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats Footer" />
 </p>
@@ -152,4 +142,3 @@ class WhoAmI:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
