@@ -1,34 +1,150 @@
-# 💫 About Me:
-I am Andrés Berrio, a 19-year-old Systems Engineering student currently living in Cartagena.
-Since I started studying, I discovered a great passion for everything related to web and mobile design.
-I love exploring new design trends and applying my programming skills to create attractive, well-organized and easy-to-use interfaces.
+<!-- Banner -->
+![Andres06b Banner Image](https://github.com/Andres06b/Andres06b/blob/main/banner.png)
 
-Throughout my training, I have specialized in the development of projects focused on the user experience, always looking for the best aesthetics and functionality in each design.
-I consider that my strength in programming is precisely in this area, since I really enjoy working with tools that allow me to bring to life interfaces that are not only visually striking, but also intuitive for users.
+<!-- Night Owl image -->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-I am always constantly learning, seeking to improve my skills and staying up to date with the latest technologies and approaches in web and mobile development. My goal is to continue growing professionally in this field and provide innovative solutions in the area of ​​digital design.
+<!-- Header Name -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀɴᴅʀᴇs!  
+*Systems Engineering Student | Web & Mobile Developer*
+<br /> 
 
+<!-- Intro -->               
+<p align="left">
+I am <strong>Andrés Berrio</strong>, a 19-year-old Systems Engineering student currently living in Cartagena.  
+Since I started studying, I discovered a great passion for web and mobile design.  
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005023187254&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/af06_berrio?igsh=MWZ5eW9zcHE0NDVheg==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@andres_06bh?_t=8qDwqdKJJrS&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AndrsFelipeB4?t=grHX5urJng3yAmftOgdPxg&s=09) 
+✨ I love exploring new design trends and applying my programming skills to create attractive, well-organized, and easy-to-use interfaces.  
+💡 My focus is always on user experience, balancing aesthetics and functionality.  
+📚 I am constantly learning and staying updated with the latest technologies.  
+🎯 My goal is to grow professionally in the digital design & development field while providing innovative solutions.  
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andres06b&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Andres06b&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres06b&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Andres06b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Andres06b&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- ✨ Student of life :)
+- 🌱 Always learning new things
+- 💻 Passionate about **Web & Mobile Development**
+- 🎨 Lover of clean UI/UX design
+- ❤ Open Source enthusiast
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Andres06b&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Profile Count Badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Andres06b&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Andres06b" style="padding-right:20px;" />
+</p>
+
+---
+
+<!-- Languages and Tools Section -->       
+<h2 align="center">🚀 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🚀</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,nodejs,mongodb,mysql,java,python,git,github,postman,canva,powerbi,vscode,linux&perline=10"  />
+</p>
+<br />
+
+---
+
+<!-- Trophies Section -->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Andres06b&row=2&column=6&margin-w=20&margin-h=20&theme=radical" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
+
+---
+
+<!-- Github stats Table --> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Andres06b">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andres06b&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Andres06b">
+          <img align="center" src="https://streak-stats.demolab.com?user=Andres06b&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Andres06b">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Andres06b&repo=BlocPersonal&theme=nightowl&show_owner=true" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Andres06b">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Andres06b&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+---
+
+<!-- Contribution Graph -->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andres06b&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!-- Dynamic Quote -->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+---
+
+<!-- Contact Section --> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<div align="center">
+  
+<a href="mailto:andresfberrio06@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100005023187254" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/af06_berrio" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.tiktok.com/@andres_06bh" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/AndrsFelipeB4" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<!-- Footer --> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
