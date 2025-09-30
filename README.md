@@ -1,9 +1,11 @@
 <!-- Banner -->
-![Andres06b Banner Image](https://github.com/Andres06B/Img-repo/blob/main/eae62235-f09f-4aa4-8c02-20f5b331dcb4.png)
+<p align="center">
+  <img src="https://github.com/Andres06B/Img-repo/blob/main/eae62235-f09f-4aa4-8c02-20f5b331dcb4.png" width="80%" alt="Andres06b Banner"/>
+</p>
 
 <!-- Night Owl image -->
 <div>
-  <img align="right" width="40%" src="https://github.com/Andres06B/Img-repo/blob/main/9522f5da-0496-407c-afc4-602eed5bec1b.png?raw=true">
+  <img align="right" width="38%" src="https://github.com/Andres06B/Img-repo/blob/main/9522f5da-0496-407c-afc4-602eed5bec1b.png?raw=true">
 </div>
 
 <!-- Header Name -->
@@ -31,7 +33,7 @@ I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything rel
 
 <!-- Profile Count Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andres06b&label=Profile%20views&color=00c8ff&style=for-the-badge&logo=star" alt="Andres06b" />
+  <img src="https://komarev.com/ghpvc/?username=Andres06b&label=Profile%20views&color=ff8800&style=for-the-badge&logo=star" alt="Andres06b" />
 </p>
 
 ---
@@ -39,7 +41,7 @@ I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything rel
 <!-- Languages and Tools Section -->       
 <h2 align="center">🚀 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🚀</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,nodejs,mongodb,mysql,java,python,git,github,postman,canva,powerbi,vscode,linux&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,nodejs,electron,mongodb,mysql,java,python,git,github,postman,figma,canva,photoshop,powerbi,vscode,linux&perline=10"  />
 </p>
 <br />
 
@@ -133,9 +135,9 @@ I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything rel
 
 <!-- Footer --> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+✨;Keep+coding+and+creating+🚀;Let's+build+something+amazing!+🔥" alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=FF8800&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+create+something+amazing!+🚀;Keep+learning+and+building+🔥" alt="Typing SVG Footer" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:8A2BE2&height=100&section=footer&animation=twinkling&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8800,100:8A2BE2&height=120&section=footer&animation=fadeIn&fontAlignY=40"/>
 </p>
