@@ -3,7 +3,7 @@
 
 <!-- Tu imagen personalizada -->
 <div align="center">
-  <img src="https://drive.google.com/file/d/1mvJwvFBs26uSouEpp4_sGmKM4m3kUZNP/view?usp=sharing" width="200" style="border-radius: 50%; margin-top: 10px;" alt="Andres Profile Image">
+  <img src="https://github.com/Andres06B/Img-repo/blob/main/9522f5da-0496-407c-afc4-602eed5bec1b.png?raw=true" width="200" style="border-radius: 50%; margin-top: 10px;" alt="Andres Profile Image">
 </div>
 
 <!-- Header Name -->
