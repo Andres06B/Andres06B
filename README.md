@@ -26,11 +26,11 @@ I have a strong passion for <b>Web & Desktop Apps</b>, as well as everything rel
 
 | Atributo | Detalle |
 | :--- | :--- |
-| **Usuario** | Andrés Berrio (Corregido de "Felipe") |
+| **Usuario** | Andrés Berrio  |
 | **Educación Actual** | Sistemas Engineering Student / Autodidacta en Desarrollo Web |
 | **Aprendiendo Actualmente** | Desarrollador Frontend |
 | **Ciudad** | 🌎 Colombia |
-| **Fun Fact** | Prefiero mantener anonimato en mis proyectos |
+| **Fun Fact** | Creador de experiencias atractivas|
 
 ### Hobbies
 - 🎨 Frontend Development
